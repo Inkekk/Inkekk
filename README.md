@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m studying to be a fullstack developer<br>🌱 I'm currently learning html, css, javascript and some frameworks<br>⚡ Lover of sci-fi and thriller movies. A low-income gamer
+🔭 I’m studying to be a fullstack developer<br>🌱 I'm currently learning javascript and some frameworks<br>⚡ Lover of sci-fi and thriller movies. A low-income gamer
 
 
 ## 🌐 Socials:
